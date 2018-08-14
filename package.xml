@@ -6,4 +6,9 @@
         <members>AccCls2</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>CL</members>
+        <members>Cls1</members>
+        <name>CustomLabel</name>
+    </types>
 </Package>
