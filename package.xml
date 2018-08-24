@@ -11,6 +11,7 @@
     </types>
     <types>
         <members>lb1</members>
+        <members>lb2</members>
         <name>CustomLabel</name>
     </types>
 </Package>
