@@ -8,4 +8,8 @@
         <members>AppCls02</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>lb1</members>
+        <name>CustomLabel</name>
+    </types>
 </Package>
