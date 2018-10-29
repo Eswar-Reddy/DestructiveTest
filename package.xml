@@ -19,11 +19,14 @@
         <members>Account</members>
         <members>AccountBrand</members>
         <members>AccountCleanInfo</members>
+        <members>AccountContactRole</members>
         <members>Account_Profile_Setting__c</members>
         <members>Account_Profile__c</members>
         <members>Activity</members>
         <members>Asset</members>
         <members>AssetRelationship</members>
+        <members>AssistantProgress</members>
+        <members>AutoRABITAPP__c</members>
         <members>CSHType1__c</members>
         <members>CSListTypeOBJ1__c</members>
         <name>CustomObject</name>
