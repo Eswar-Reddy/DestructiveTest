@@ -24,11 +24,22 @@
         <members>Activity</members>
         <members>Asset</members>
         <members>AssetRelationship</members>
+        <members>CSHType1__c</members>
+        <members>CSListTypeOBJ1__c</members>
         <name>CustomObject</name>
+    </types>
+    <types>
+        <members>PermissionDemo1</members>
+        <members>PermissionDemo2</members>
+        <members>PermissionDemo333333333</members>
+        <members>PermissionDemo66</members>
+        <name>PermissionSet</name>
     </types>
     <types>
         <members>AdmProfile111</members>
         <members>AdmProfile222</members>
+        <members>AdminProfile1</members>
+        <members>AdminProfilesSe1</members>
         <name>Profile</name>
     </types>
 </Package>
