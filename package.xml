@@ -14,4 +14,16 @@
         <members>lb2</members>
         <name>CustomLabel</name>
     </types>
+    <types>
+        <members>ARCustomSetting1ListSeetingObj__c</members>
+        <members>Account</members>
+        <members>AccountBrand</members>
+        <members>AccountCleanInfo</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>AdmProfile111</members>
+        <members>AdmProfile222</members>
+        <name>Profile</name>
+    </types>
 </Package>
