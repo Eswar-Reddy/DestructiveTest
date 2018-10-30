@@ -29,6 +29,15 @@
         <members>AutoRABITAPP__c</members>
         <members>CSHType1__c</members>
         <members>CSListTypeOBJ1__c</members>
+        <members>Case</members>
+        <members>CaseContactRole</members>
+        <members>ChannelProgram</members>
+        <members>ChannelProgramLevel</members>
+        <members>ChannelProgramMember</members>
+        <members>ChatterActivity</members>
+        <members>CollaborationGroupMember</members>
+        <members>College__c</members>
+        <members>ContactCleanInfo</members>
         <members>CustomMetadataTest1__mdt</members>
         <members>CustomSettingListType1Obj__c</members>
         <members>CustomSettingObjectInfomartionStorag__c</members>
