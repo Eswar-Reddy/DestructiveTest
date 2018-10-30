@@ -29,6 +29,11 @@
         <members>AutoRABITAPP__c</members>
         <members>CSHType1__c</members>
         <members>CSListTypeOBJ1__c</members>
+        <members>CustomMetadataTest1__mdt</members>
+        <members>CustomSettingListType1Obj__c</members>
+        <members>CustomSettingObjectInfomartionStorag__c</members>
+        <members>CustomSettingsObj1__c</members>
+        <members>DandBCompany</members>
         <name>CustomObject</name>
     </types>
     <types>
