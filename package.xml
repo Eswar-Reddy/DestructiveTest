@@ -2,6 +2,9 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>43.0</version>
     <types>
+        <members>A101</members>
+        <members>A102</members>
+        <members>A21</members>
         <members>AccCls1</members>
         <members>AccCls2</members>
         <members>AppCls01</members>
@@ -43,6 +46,7 @@
         <members>CustomSettingObjectInfomartionStorag__c</members>
         <members>CustomSettingsObj1__c</members>
         <members>DandBCompany</members>
+        <members>SpecialObj__c</members>
         <name>CustomObject</name>
     </types>
     <types>
