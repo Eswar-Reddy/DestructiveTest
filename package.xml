@@ -13,6 +13,10 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>SpecialObj__c.field1__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
         <members>lb1</members>
         <members>lb2</members>
         <name>CustomLabel</name>

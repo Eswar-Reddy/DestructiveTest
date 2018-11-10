@@ -43,7 +43,9 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
-    <description>Special info ðŸ“ž ðŸ“ž</description>
+    <description>Special info ðŸ“ž ðŸ“ž   
+
+info ðŸ“ž</description>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
@@ -52,6 +54,18 @@
     <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>field1__c</fullName>
+        <description>ðŸ“ž</description>
+        <externalId>false</externalId>
+        <inlineHelpText>ðŸ“ž</inlineHelpText>
+        <label>field1</label>
+        <length>25</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>SpecialObj</label>
     <listViews>
         <fullName>All</fullName>
